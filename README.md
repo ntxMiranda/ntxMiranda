@@ -2,7 +2,7 @@
 
 **`Estudande de Análise e Desenolvimento de Sistemas`**
 
-Meu nome é Yuri Miranda, tenho 19 anos, moro em São Paulo. Atualmente estou cusando Análise e Desenolvimento de Sistemas. Estudos tecnologias desde meus 13 anos de idade. Vou começar a subir alguns dos meus  projetos mais recentes aqui e no meu instagram [ntx.miranda](https://www.instagram.com/ntx.miranda/)
+Meu nome é Yuri Miranda, tenho 19 anos, moro em São Paulo. Atualmente estou cusando Análise e Desenolvimento de Sistemas. Estudos tecnologias desde meus 13 anos de idade. Vou começar a subir alguns dos meus  projetos mais recentes aqui e no meu instagram.
 
 ## 🤖 linguagens e tecnologias
 
@@ -60,9 +60,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij
     width="30px"
     style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-          
-          
-          
-          
 
-          
+<br></br>
+
+  ##
+ 
+<div> 
+
+<a href="https://www.instagram.com/ntx.miranda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/users/417152286301749268" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://outlook.live.com/mail/0/deeplink/compose?to=yuricmiranda25@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/yuri-miranda-97a83a3b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=whzite" target="_blank"></a> 
+</div>    
