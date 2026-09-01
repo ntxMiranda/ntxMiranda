@@ -1,10 +1,10 @@
-# 👨🏽‍💻 Yuri Miranda
+#  Yuri Miranda
 
-**`Estudande de Análise e Desenolvimento de Sistemas`**
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Meu nome é Yuri Miranda, tenho 19 anos, moro em São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia desde meus 13 anos de idade. Vou começar a subir alguns dos meus projetos mais recentes aqui e no meu instagram.
+Meu nome é Yuri Miranda, tenho 19 anos, moro em São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia desde meus 13 anos de idade. Vou começar a subir alguns dos meus projetos mais recentes aqui e no meu Instagram.
 
-## 🤖 linguagens e tecnologias
+## 🤖 tecnologias e ferramentas
 
 
 <img 
