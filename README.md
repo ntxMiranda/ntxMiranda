@@ -54,16 +54,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij
 
 
 <img
-    align="left"
     alt="Git"
     title="Git"
     width="30px"
     style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<br></br>
-
-  ##
+---
  
 <div> 
 
